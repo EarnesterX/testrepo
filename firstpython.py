@@ -1,2 +1,3 @@
 #display output
-testing
+print("first python file as repository in github")
+
